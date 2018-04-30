@@ -1,0 +1,49 @@
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+  }
+  
+  
+  footer {
+    background-color: #eee;
+    padding: 15px 0px 0px 10px;
+  }
+  
+.messagePanel { 
+    width: 320px; 
+    height: 330px; 
+    margin: 0 auto;
+}
+
+.seat {
+    width: 21px;
+    height: 21px;
+    margin: 5px;
+    border: solid 1px black;
+    float: left;
+}
+
+.seatlayout-design {
+    background: #fff;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.clearfix { clear: both;}
+.available {
+    background-color: #e0e0e0;
+}
+
+.hovering{
+    background-color: #b3b3b3;
+    border: 1px solid #2700ff;
+    cursor: pointer;
+}
+.selected{
+    background-color: #5aca7c;
+    color: #fff;
+}
+
+

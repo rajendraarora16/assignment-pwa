@@ -1,0 +1,28 @@
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+
+footer {
+  background-color: #eee;
+  padding: 15px 0px 0px 10px;
+}
+
+.movie-selection{
+    cursor: pointer;
+}
+
+.jumbotron {
+  background: #fff;
+}
+
+@media screen and (orientation: landscape) {
+  .movie-selection {
+    flex-direction: row;
+  }
+}
+
+.contactus-form{
+  width: 450px;
+}
